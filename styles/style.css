@@ -22,13 +22,8 @@ a:hover {
 
 html {
   font-size: 20px;
-  /* px means "pixels": the base font size is now 10 pixels high */
+  background-color: blue;
   font-family: "Open Sans", sans-serif;
-  /* this should be the rest of the output you got from Google Fonts */
-}
-
-html {
-  background-color: rgb(239, 109, 39);
 }
 
 body {
